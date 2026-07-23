@@ -1,0 +1,64 @@
+name: Update MLB Home Run Recency
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Runs daily at 12:00 PM Eastern during daylight saving time
+    - cron: "0 16 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-home-runs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Extract MLB script
+        run: |
+          rm -rf mlb_latest_hr
+          unzip -o mlb_latest_hr_all_31.zip
+
+      - name: Install Python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r mlb_latest_hr/requirements.txt
+
+      - name: Run home run lookup
+        working-directory: mlb_latest_hr
+        run: |
+          python latest_home_runs.py
+
+      - name: Copy results to repository
+        run: |
+          mkdir -p output
+
+          if [ -f mlb_latest_hr/latest_home_runs_2026.csv ]; then
+            cp mlb_latest_hr/latest_home_runs_2026.csv output/latest_home_runs_2026.csv
+          else
+            echo "Expected CSV was not created."
+            exit 1
+          fi
+
+      - name: Commit updated results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add output/latest_home_runs_2026.csv
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update MLB home run recency data"
+            git push
+          fi
