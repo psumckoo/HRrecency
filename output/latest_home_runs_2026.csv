@@ -1,11 +1,11 @@
 player,date,opponent,pitcher,inning,distance_ft,exit_velocity_mph,launch_angle_deg,pitch_type,pitch_speed_mph,game_pk,mlbam_id,status
 Yordan Alvarez,2026-07-28,LAA,"Alvarez, Yordan",Top 1,427.0,109.1,29.0,FF,95.7,824003,670541,OK
 Kyle Schwarber,2026-07-18,NYM,"Schwarber, Kyle",Bot 1,399.0,106.0,41.0,FC,85.0,823441,656941,OK
-Hunter Goodman,2026-07-21,WSH,"Goodman, Hunter",Bot 8,399.0,95.4,32.0,SL,87.4,824329,696100,OK
+Hunter Goodman,2026-08-01,KC,"Goodman, Hunter",Bot 7,424.0,100.9,34.0,CH,89.9,824326,696100,OK
 Ben Rice,2026-07-26,PHI,"Rice, Ben",Top 7,417.0,102.5,26.0,SL,86.2,823433,700250,OK
 Junior Caminero,2026-07-31,CWS,"Caminero, Junior",Bot 4,453.0,109.5,29.0,SI,94.2,822945,691406,OK
 James Wood,2026-07-26,AZ,"Wood, James",Bot 8,418.0,109.6,25.0,SL,84.1,822706,695578,OK
-Matt Olson,2026-07-31,WSH,"Olson, Matt",Bot 1,396.0,107.2,22.0,FC,89.8,824892,621566,OK
+Matt Olson,2026-08-01,WSH,"Olson, Matt",Bot 1,372.0,106.2,25.0,SL,88.4,824890,621566,OK
 Byron Buxton,2026-06-22,LAD,"Buxton, Byron",Bot 1,394.0,106.8,35.0,FF,98.4,823692,621439,OK
 CJ Abrams,2026-07-31,ATL,"Abrams, CJ",Top 4,393.0,102.0,38.0,FC,87.9,824892,682928,OK
 Colson Montgomery,2026-07-31,TB,"Montgomery, Colson",Top 6,425.0,107.4,33.0,SI,91.9,822945,695657,OK
