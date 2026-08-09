@@ -2,7 +2,7 @@ player,date,opponent,pitcher,inning,distance_ft,exit_velocity_mph,launch_angle_d
 Yordan Alvarez,2026-07-28,LAA,"Alvarez, Yordan",Top 1,427.0,109.1,29.0,FF,95.7,824003,670541,OK
 Kyle Schwarber,2026-07-18,NYM,"Schwarber, Kyle",Bot 1,399.0,106.0,41.0,FC,85.0,823441,656941,OK
 Hunter Goodman,2026-08-01,KC,"Goodman, Hunter",Bot 7,424.0,100.9,34.0,CH,89.9,824326,696100,OK
-Ben Rice,2026-07-26,PHI,"Rice, Ben",Top 7,417.0,102.5,26.0,SL,86.2,823433,700250,OK
+Ben Rice,2026-08-08,ATL,"Rice, Ben",Bot 8,431.0,105.2,35.0,SI,91.8,823514,700250,OK
 Junior Caminero,2026-08-05,COL,"Caminero, Junior",Top 3,449.0,105.1,38.0,FS,86.7,824322,691406,OK
 James Wood,2026-07-26,AZ,"Wood, James",Bot 8,418.0,109.6,25.0,SL,84.1,822706,695578,OK
 Matt Olson,2026-08-07,NYY,"Olson, Matt",Top 9,407.0,109.8,19.0,SI,87.9,823515,621566,OK
@@ -15,18 +15,18 @@ Dillon Dingler,2026-08-06,SEA,"Dingler, Dillon",Top 1,401.0,101.3,27.0,FC,91.8,8
 Manny Machado,2026-07-26,MIA,"Machado, Manny",Top 8,399.0,106.1,21.0,FF,95.7,823840,592518,OK
 Shohei Ohtani,2026-08-05,CHC,"Ohtani, Shohei",Top 8,367.0,100.6,23.0,ST,86.3,824646,660271,OK
 Kazuma Okamoto,2026-07-28,WSH,"Okamoto, Kazuma",Top 5,415.0,103.3,26.0,FF,98.4,822703,672960,OK
-Jordan Walker,2026-07-09,MIL,"Walker, Jordan",Bot 6,406.0,106.5,28.0,FC,89.8,823034,691023,OK
+Jordan Walker,2026-08-08,COL,"Walker, Jordan",Bot 8,432.0,107.3,31.0,CH,79.2,823021,691023,OK
 Pete Alonso,2026-07-31,PHI,"Alonso, Pete",Bot 1,394.0,109.3,24.0,FF,97.0,824809,624413,OK
 Pete Crow-Armstrong,2026-08-05,LAD,"Crow-Armstrong, Pete",Bot 4,405.0,104.4,37.0,FF,91.6,824646,691718,OK
 Luis García Jr.,2026-08-03,STL,"García Jr., Luis",Bot 7,424.0,109.0,19.0,CH,90.0,823520,671277,OK
-Bryce Harper,2026-08-03,WSH,"Harper, Bryce",Bot 8,433.0,112.6,22.0,FF,93.8,823431,547180,OK
-Brandon Lowe,2026-08-06,MIL,"Lowe, Brandon",Top 4,384.0,103.3,24.0,FF,96.4,823754,664040,OK
+Bryce Harper,2026-08-08,TOR,"Harper, Bryce",Bot 6,399.0,106.7,23.0,SL,88.6,823426,547180,OK
+Brandon Lowe,2026-08-08,NYM,"Lowe, Brandon",Bot 7,380.0,98.9,38.0,EP,42.0,823348,664040,OK
 Juan Soto,2026-07-09,KC,"Soto, Juan",Bot 7,435.0,106.6,29.0,SI,95.9,823606,665742,OK
 Sal Stewart,2026-08-06,ATH,"Stewart, Sal",Bot 4,416.0,105.6,32.0,FF,94.5,824481,701398,OK
 Miguel Vargas,2026-08-02,TB,"Vargas, Miguel",Top 9,413.0,104.9,24.0,SI,95.6,822943,678246,OK
 Rafael Devers,2026-08-07,DET,"Devers, Rafael",Bot 1,401.0,100.0,29.0,KC,80.7,823191,646240,OK
 Nick Kurtz,2026-07-26,MIN,"Kurtz, Nick",Top 6,412.0,104.1,28.0,FS,86.6,823678,701762,OK
 Max Muncy,2026-08-05,CHC,"Muncy, Max",Top 8,413.0,106.3,43.0,FF,93.1,824646,571970,OK
-Munetaka Murakami,2026-08-07,CLE,"Murakami, Munetaka",Bot 6,406.0,110.5,42.0,FF,95.8,824566,808959,OK
+Munetaka Murakami,2026-08-08,CLE,"Murakami, Munetaka",Bot 6,347.0,101.1,28.0,SI,99.8,824565,808959,OK
 Casey Schmitt,2026-07-24,LAA,"Schmitt, Casey",Bot 3,412.0,105.9,27.0,FF,96.3,823196,669477,OK
 Christian Walker,2026-07-31,TEX,"Walker, Christian",Bot 5,428.0,110.1,23.0,FS,85.0,824164,572233,OK
