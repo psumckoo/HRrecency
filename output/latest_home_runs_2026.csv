@@ -1,6 +1,6 @@
 player,date,opponent,pitcher,inning,distance_ft,exit_velocity_mph,launch_angle_deg,pitch_type,pitch_speed_mph,game_pk,mlbam_id,status
 Yordan Alvarez,2026-07-28,LAA,"Alvarez, Yordan",Top 1,427.0,109.1,29.0,FF,95.7,824003,670541,OK
-Kyle Schwarber,2026-08-09,TOR,"Schwarber, Kyle",Bot 5,448.0,107.7,28.0,KC,83.1,823425,656941,OK
+Kyle Schwarber,2026-08-13,MIN,"Schwarber, Kyle",Top 4,355.0,108.0,39.0,SI,92.7,823669,656941,OK
 Hunter Goodman,2026-08-09,STL,"Goodman, Hunter",Top 8,394.0,104.0,36.0,SI,95.4,823020,696100,OK
 Ben Rice,2026-08-08,ATL,"Rice, Ben",Bot 8,431.0,105.2,35.0,SI,91.8,823514,700250,OK
 Junior Caminero,2026-08-11,ATH,"Caminero, Junior",Top 1,430.0,105.4,25.0,ST,83.1,824970,691406,OK
@@ -22,11 +22,11 @@ Luis García Jr.,2026-08-03,STL,"García Jr., Luis",Bot 7,424.0,109.0,19.0,CH,90
 Bryce Harper,2026-08-08,TOR,"Harper, Bryce",Bot 6,399.0,106.7,23.0,SL,88.6,823426,547180,OK
 Brandon Lowe,2026-08-08,NYM,"Lowe, Brandon",Bot 7,380.0,98.9,38.0,EP,42.0,823348,664040,OK
 Juan Soto,2026-07-09,KC,"Soto, Juan",Bot 7,435.0,106.6,29.0,SI,95.9,823606,665742,OK
-Sal Stewart,2026-08-06,ATH,"Stewart, Sal",Bot 4,416.0,105.6,32.0,FF,94.5,824481,701398,OK
+Sal Stewart,2026-08-13,CWS,"Stewart, Sal",Top 1,419.0,110.2,27.0,SL,88.1,824561,701398,OK
 Miguel Vargas,2026-08-11,CIN,"Vargas, Miguel",Bot 4,407.0,106.6,33.0,FF,92.8,824563,678246,OK
 Rafael Devers,2026-08-07,DET,"Devers, Rafael",Bot 1,401.0,100.0,29.0,KC,80.7,823191,646240,OK
 Nick Kurtz,2026-07-26,MIN,"Kurtz, Nick",Top 6,412.0,104.1,28.0,FS,86.6,823678,701762,OK
-Max Muncy,2026-08-05,CHC,"Muncy, Max",Top 8,413.0,106.3,43.0,FF,93.1,824646,571970,OK
+Max Muncy,2026-08-13,MIL,"Muncy, Max",Bot 6,426.0,105.7,33.0,FF,100.1,823915,571970,OK
 Munetaka Murakami,2026-08-08,CLE,"Murakami, Munetaka",Bot 6,347.0,101.1,28.0,SI,99.8,824565,808959,OK
 Casey Schmitt,2026-07-24,LAA,"Schmitt, Casey",Bot 3,412.0,105.9,27.0,FF,96.3,823196,669477,OK
 Christian Walker,2026-07-31,TEX,"Walker, Christian",Bot 5,428.0,110.1,23.0,FS,85.0,824164,572233,OK
