@@ -1,6 +1,6 @@
 player,date,opponent,pitcher,inning,distance_ft,exit_velocity_mph,launch_angle_deg,pitch_type,pitch_speed_mph,game_pk,mlbam_id,status
 Yordan Alvarez,2026-09-06,AZ,"Alvarez, Yordan",Bot 1,337.0,90.7,37.0,CH,81.7,824142,670541,OK
-Kyle Schwarber,2026-09-06,ATL,"Schwarber, Kyle",Bot 7,371.0,107.0,25.0,SI,96.4,823417,656941,OK
+Kyle Schwarber,2026-09-07,ATL,"Schwarber, Kyle",Bot 8,415.0,107.8,29.0,FF,99.7,823415,656941,OK
 Hunter Goodman,2026-08-26,WSH,"Goodman, Hunter",Top 8,435.0,108.8,25.0,SL,85.6,822692,696100,OK
 Ben Rice,2026-09-04,SD,"Rice, Ben",Top 3,444.0,108.6,26.0,SL,87.2,823256,700250,OK
 Junior Caminero,2026-09-05,TEX,"Caminero, Junior",Top 1,425.0,107.5,20.0,SL,91.9,822850,691406,OK
@@ -14,10 +14,10 @@ Willson Contreras,2026-08-21,SF,"Contreras, Willson",Bot 3,452.0,116.0,30.0,CH,8
 Dillon Dingler,2026-08-06,SEA,"Dingler, Dillon",Top 1,401.0,101.3,27.0,FC,91.8,823105,693307,OK
 Manny Machado,2026-09-06,NYY,"Machado, Manny",Bot 1,416.0,109.2,18.0,FF,97.0,823253,592518,OK
 Shohei Ohtani,2026-08-18,COL,"Ohtani, Shohei",Top 3,448.0,105.6,33.0,CU,77.2,824319,660271,OK
-Kazuma Okamoto,2026-08-30,SEA,"Okamoto, Kazuma",Bot 6,405.0,107.7,38.0,SL,84.1,822766,672960,OK
+Kazuma Okamoto,2026-09-07,ATH,"Okamoto, Kazuma",Top 7,423.0,109.8,31.0,FC,84.6,824958,672960,OK
 Jordan Walker,2026-09-01,LAD,"Walker, Jordan",Top 4,409.0,109.3,20.0,FF,97.5,823908,691023,OK
 Pete Alonso,2026-09-03,BOS,"Alonso, Pete",Bot 4,392.0,101.5,33.0,CH,84.1,824796,624413,OK
-Pete Crow-Armstrong,2026-09-06,MIA,"Crow-Armstrong, Pete",Top 5,403.0,111.2,27.0,ST,84.7,823822,691718,OK
+Pete Crow-Armstrong,2026-09-07,MIL,"Crow-Armstrong, Pete",Top 9,400.0,107.9,25.0,FF,99.6,823742,691718,OK
 Luis García Jr.,2026-08-26,HOU,"García Jr., Luis",Bot 8,354.0,99.5,38.0,CH,86.0,823506,671277,OK
 Bryce Harper,2026-08-26,SEA,"Harper, Bryce",Top 1,388.0,106.4,30.0,FF,98.0,823096,547180,OK
 Brandon Lowe,2026-09-01,SF,"Lowe, Brandon",Bot 7,411.0,103.7,30.0,FF,94.1,823340,664040,OK
