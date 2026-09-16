@@ -1,9 +1,9 @@
 player,date,opponent,pitcher,inning,distance_ft,exit_velocity_mph,launch_angle_deg,pitch_type,pitch_speed_mph,game_pk,mlbam_id,status
-Yordan Alvarez,2026-09-06,AZ,"Alvarez, Yordan",Bot 1,337.0,90.7,37.0,CH,81.7,824142,670541,OK
-Kyle Schwarber,2026-09-09,HOU,"Schwarber, Kyle",Bot 6,408.0,105.7,30.0,ST,87.2,823416,656941,OK
+Yordan Alvarez,2026-09-15,KC,"Alvarez, Yordan",Bot 5,376.0,100.3,30.0,CH,79.4,824143,670541,OK
+Kyle Schwarber,2026-09-15,WSH,"Schwarber, Kyle",Top 5,366.0,98.3,33.0,SL,84.9,822683,656941,OK
 Hunter Goodman,2026-09-12,DET,"Goodman, Hunter",Top 3,362.0,93.9,33.0,FF,93.7,824224,696100,OK
 Ben Rice,2026-09-13,NYM,"Rice, Ben",Bot 1,333.0,95.3,40.0,FS,84.7,823495,700250,OK
-Junior Caminero,2026-09-11,HOU,"Caminero, Junior",Bot 9,417.0,107.2,29.0,FF,96.6,822930,691406,OK
+Junior Caminero,2026-09-15,ATH,"Caminero, Junior",Bot 9,345.0,97.3,29.0,FF,100.4,822925,691406,OK
 James Wood,2026-07-26,AZ,"Wood, James",Bot 8,418.0,109.6,25.0,SL,84.1,822706,695578,OK
 Matt Olson,2026-09-13,PHI,"Olson, Matt",Bot 9,400.0,101.9,30.0,SL,88.2,824869,621566,OK
 Byron Buxton,2026-06-22,LAD,"Buxton, Byron",Bot 1,394.0,106.8,35.0,FF,98.4,823692,621439,OK
@@ -16,11 +16,11 @@ Manny Machado,2026-09-14,COL,"Machado, Manny",Top 1,388.0,94.1,29.0,CU,79.8,8243
 Shohei Ohtani,2026-08-18,COL,"Ohtani, Shohei",Top 3,448.0,105.6,33.0,CU,77.2,824319,660271,OK
 Kazuma Okamoto,2026-09-14,DET,"Okamoto, Kazuma",Bot 7,390.0,107.3,31.0,FF,95.0,822765,672960,OK
 Jordan Walker,2026-09-01,LAD,"Walker, Jordan",Top 4,409.0,109.3,20.0,FF,97.5,823908,691023,OK
-Pete Alonso,2026-09-12,TOR,"Alonso, Pete",Top 7,387.0,106.5,27.0,ST,82.1,822768,624413,OK
+Pete Alonso,2026-09-15,NYM,"Alonso, Pete",Top 9,414.0,109.6,35.0,FO,82.5,823574,624413,OK
 Pete Crow-Armstrong,2026-09-14,ATL,"Crow-Armstrong, Pete",Bot 6,373.0,95.8,31.0,FF,96.9,824629,691718,OK
 Luis García Jr.,2026-09-10,COL,"García Jr., Luis",Bot 1,413.0,103.7,25.0,CH,85.5,823499,671277,OK
 Bryce Harper,2026-09-12,ATL,"Harper, Bryce",Top 1,426.0,108.2,26.0,FF,94.4,824870,547180,OK
-Brandon Lowe,2026-09-01,SF,"Lowe, Brandon",Bot 7,411.0,103.7,30.0,FF,94.1,823340,664040,OK
+Brandon Lowe,2026-09-15,MIL,"Lowe, Brandon",Bot 8,343.0,100.6,28.0,FF,96.8,823333,664040,OK
 Juan Soto,2026-09-12,NYY,"Soto, Juan",Top 7,400.0,106.7,34.0,FF,89.0,823496,665742,OK
 Sal Stewart,2026-08-30,CHC,"Stewart, Sal",Top 7,418.0,101.7,28.0,ST,82.2,824636,701398,OK
 Miguel Vargas,2026-09-14,CLE,"Vargas, Miguel",Top 6,392.0,105.3,30.0,FF,99.2,824386,678246,OK
