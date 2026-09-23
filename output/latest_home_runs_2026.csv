@@ -1,5 +1,5 @@
 player,date,opponent,pitcher,inning,distance_ft,exit_velocity_mph,launch_angle_deg,pitch_type,pitch_speed_mph,game_pk,mlbam_id,status
-Yordan Alvarez,2026-09-17,KC,"Alvarez, Yordan",Bot 5,385.0,107.2,37.0,FF,90.0,824141,670541,OK
+Yordan Alvarez,2026-09-22,SEA,"Alvarez, Yordan",Top 8,386.0,109.5,25.0,SL,87.2,823089,670541,OK
 Kyle Schwarber,2026-09-15,WSH,"Schwarber, Kyle",Top 5,366.0,98.3,33.0,SL,84.9,822683,656941,OK
 Hunter Goodman,2026-09-20,SEA,"Goodman, Hunter",Bot 9,389.0,97.8,34.0,FF,98.9,824300,696100,OK
 Ben Rice,2026-09-18,AZ,"Rice, Ben",Top 3,390.0,103.6,33.0,FF,92.2,825032,700250,OK
@@ -7,7 +7,7 @@ Junior Caminero,2026-09-15,ATH,"Caminero, Junior",Bot 9,345.0,97.3,29.0,FF,100.4
 James Wood,2026-07-26,AZ,"Wood, James",Bot 8,418.0,109.6,25.0,SL,84.1,822706,695578,OK
 Matt Olson,2026-09-18,HOU,"Olson, Matt",Top 9,383.0,102.8,30.0,CH,86.1,824138,621566,OK
 Byron Buxton,2026-06-22,LAD,"Buxton, Byron",Bot 1,394.0,106.8,35.0,FF,98.4,823692,621439,OK
-CJ Abrams,2026-09-20,STL,"Abrams, CJ",Top 6,397.0,101.2,30.0,SL,84.1,823001,682928,OK
+CJ Abrams,2026-09-22,DET,"Abrams, CJ",Top 7,404.0,104.2,30.0,CH,86.9,824222,682928,OK
 Colson Montgomery,2026-09-05,MIN,"Montgomery, Colson",Bot 1,372.0,112.3,24.0,FC,90.3,824553,695657,OK
 Shea Langeliers,2026-07-21,AZ,"Langeliers, Shea",Top 8,444.0,110.7,25.0,SL,77.9,825056,669127,OK
 Willson Contreras,2026-09-16,TEX,"Contreras, Willson",Top 1,403.0,105.7,25.0,SL,87.0,822846,575929,OK
@@ -27,6 +27,6 @@ Miguel Vargas,2026-09-19,DET,"Vargas, Miguel",Bot 6,390.0,102.2,33.0,SL,92.1,824
 Rafael Devers,2026-09-12,SD,"Devers, Rafael",Bot 1,389.0,108.1,33.0,ST,84.0,823170,646240,OK
 Nick Kurtz,2026-07-26,MIN,"Kurtz, Nick",Top 6,412.0,104.1,28.0,FS,86.6,823678,701762,OK
 Max Muncy,2026-09-18,SF,"Muncy, Max",Bot 8,420.0,106.1,29.0,FF,91.4,823898,571970,OK
-Munetaka Murakami,2026-09-17,DET,"Murakami, Munetaka",Bot 1,423.0,109.1,35.0,SI,94.6,824548,808959,OK
+Munetaka Murakami,2026-09-22,KC,"Murakami, Munetaka",Top 7,373.0,109.1,24.0,CU,81.6,824061,808959,OK
 Casey Schmitt,2026-07-24,LAA,"Schmitt, Casey",Bot 3,412.0,105.9,27.0,FF,96.3,823196,669477,OK
-Christian Walker,2026-09-08,PHI,"Walker, Christian",Top 2,440.0,107.7,27.0,SI,94.2,823414,572233,OK
+Christian Walker,2026-09-22,SEA,"Walker, Christian",Top 3,377.0,104.7,21.0,SL,87.6,823089,572233,OK
