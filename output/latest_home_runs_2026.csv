@@ -1,6 +1,6 @@
 player,date,opponent,pitcher,inning,distance_ft,exit_velocity_mph,launch_angle_deg,pitch_type,pitch_speed_mph,game_pk,mlbam_id,status
 Yordan Alvarez,2026-09-26,ATH,"Alvarez, Yordan",Top 5,401.0,106.7,22.0,ST,87.0,824949,670541,OK
-Kyle Schwarber,2026-09-15,WSH,"Schwarber, Kyle",Top 5,366.0,98.3,33.0,SL,84.9,822683,656941,OK
+Kyle Schwarber,2026-09-30,ATL,"Schwarber, Kyle",Top 8,447.0,111.7,27.0,SL,86.6,849841,656941,OK
 Hunter Goodman,2026-09-26,CWS,"Goodman, Hunter",Top 9,351.0,94.7,29.0,SL,87.5,824543,696100,OK
 Ben Rice,2026-09-29,BOS,"Rice, Ben",Bot 8,408.0,108.6,26.0,SI,97.4,849851,700250,OK
 Junior Caminero,2026-09-26,PHI,"Caminero, Junior",Top 1,399.0,111.9,27.0,KC,78.5,823407,691406,OK
@@ -10,7 +10,7 @@ Byron Buxton,2026-06-22,LAD,"Buxton, Byron",Bot 1,394.0,106.8,35.0,FF,98.4,82369
 CJ Abrams,2026-09-22,DET,"Abrams, CJ",Top 7,404.0,104.2,30.0,CH,86.9,824222,682928,OK
 Colson Montgomery,2026-09-29,HOU,"Montgomery, Colson",Top 4,432.0,106.0,29.0,FF,94.8,849849,695657,OK
 Shea Langeliers,2026-07-21,AZ,"Langeliers, Shea",Top 8,444.0,110.7,25.0,SL,77.9,825056,669127,OK
-Willson Contreras,2026-09-16,TEX,"Contreras, Willson",Top 1,403.0,105.7,25.0,SL,87.0,822846,575929,OK
+Willson Contreras,2026-09-30,NYY,"Contreras, Willson",Top 6,387.0,102.6,23.0,FF,95.9,849848,575929,OK
 Dillon Dingler,2026-09-11,COL,"Dingler, Dillon",Bot 6,408.0,107.4,25.0,FF,94.1,824227,693307,OK
 Manny Machado,2026-09-29,CHC,"Machado, Manny",Bot 1,391.0,103.3,28.0,CH,81.5,849843,592518,OK
 Shohei Ohtani,2026-08-18,COL,"Ohtani, Shohei",Top 3,448.0,105.6,33.0,CU,77.2,824319,660271,OK
@@ -18,8 +18,8 @@ Kazuma Okamoto,2026-09-14,DET,"Okamoto, Kazuma",Bot 7,390.0,107.3,31.0,FF,95.0,8
 Jordan Walker,2026-09-25,MIL,"Walker, Jordan",Top 7,411.0,105.9,24.0,FC,87.4,823735,691023,OK
 Pete Alonso,2026-09-25,NYY,"Alonso, Pete",Top 7,471.0,112.8,27.0,CH,85.1,823491,624413,OK
 Pete Crow-Armstrong,2026-09-20,CIN,"Crow-Armstrong, Pete",Top 5,411.0,105.3,33.0,FF,93.2,824462,691718,OK
-Luis García Jr.,2026-09-10,COL,"García Jr., Luis",Bot 1,413.0,103.7,25.0,CH,85.5,823499,671277,OK
-Bryce Harper,2026-09-27,TB,"Harper, Bryce",Bot 5,366.0,111.6,20.0,FF,93.9,823408,547180,OK
+Luis García Jr.,2026-09-30,BOS,"García Jr., Luis",Bot 4,387.0,107.0,32.0,ST,85.1,849848,671277,OK
+Bryce Harper,2026-09-30,ATL,"Harper, Bryce",Top 8,418.0,107.1,25.0,SL,85.8,849841,547180,OK
 Brandon Lowe,2026-09-26,DET,"Lowe, Brandon",Top 4,416.0,104.7,31.0,FF,89.7,824219,664040,OK
 Juan Soto,2026-09-23,TEX,"Soto, Juan",Top 3,429.0,106.2,35.0,CH,81.1,822841,665742,OK
 Sal Stewart,2026-09-17,LAD,"Stewart, Sal",Bot 4,380.0,104.3,25.0,SI,96.0,824464,701398,OK
