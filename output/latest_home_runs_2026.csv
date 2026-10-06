@@ -2,7 +2,7 @@ player,date,opponent,pitcher,inning,distance_ft,exit_velocity_mph,launch_angle_d
 Yordan Alvarez,2026-09-26,ATH,"Alvarez, Yordan",Top 5,401.0,106.7,22.0,ST,87.0,824949,670541,OK
 Kyle Schwarber,2026-09-30,ATL,"Schwarber, Kyle",Top 8,447.0,111.7,27.0,SL,86.6,849841,656941,OK
 Hunter Goodman,2026-09-26,CWS,"Goodman, Hunter",Top 9,351.0,94.7,29.0,SL,87.5,824543,696100,OK
-Ben Rice,2026-09-29,BOS,"Rice, Ben",Bot 8,408.0,108.6,26.0,SI,97.4,849851,700250,OK
+Ben Rice,2026-10-05,TB,"Rice, Ben",Top 8,358.0,98.9,25.0,CH,84.1,849839,700250,OK
 Junior Caminero,2026-09-26,PHI,"Caminero, Junior",Top 1,399.0,111.9,27.0,KC,78.5,823407,691406,OK
 James Wood,2026-07-26,AZ,"Wood, James",Bot 8,418.0,109.6,25.0,SL,84.1,822706,695578,OK
 Matt Olson,2026-10-01,PHI,"Olson, Matt",Bot 7,416.0,107.2,26.0,CH,92.1,849844,621566,OK
